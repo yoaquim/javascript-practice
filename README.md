@@ -1,5 +1,5 @@
 # javascript-practice
 
-Me, practicing on javascript.
+Me, practicing javascript.
 
 Mostly implementation and design of algorithms and data structures.
